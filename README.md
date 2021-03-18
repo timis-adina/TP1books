@@ -4,9 +4,9 @@
 
 # To complete: 
 
-* Name :
-* Student Id:
-* Email :
+* Name : Adina TIMIS
+* Student Id: 0191042056
+* Email : adina.timis.001@student.uni.lu or adina_timis@outlook.com
 
 ### Setting
 In this practical session, you will code a method to compute the cost of shopping basket and test it using JUnit.
